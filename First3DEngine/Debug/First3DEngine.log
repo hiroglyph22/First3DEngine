@@ -1,0 +1,9 @@
+﻿  First3DEngine.cpp
+C:\Users\Hiro\source\repos\First3DEngine\First3DEngine\First3DEngine.cpp(628,86): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Hiro\source\repos\First3DEngine\First3DEngine\First3DEngine.cpp(628,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Hiro\source\repos\First3DEngine\First3DEngine\First3DEngine.cpp(628,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Hiro\source\repos\First3DEngine\First3DEngine\First3DEngine.cpp(628,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Hiro\source\repos\First3DEngine\First3DEngine\First3DEngine.cpp(628,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Hiro\source\repos\First3DEngine\First3DEngine\First3DEngine.cpp(628,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Hiro\source\repos\First3DEngine\First3DEngine\First3DEngine.cpp(372): warning C4715: 'olcEngine3D::Triangle_ClipAgainstPlane': not all control paths return a value
+  First3DEngine.vcxproj -> C:\Users\Hiro\source\repos\First3DEngine\Debug\First3DEngine.exe
